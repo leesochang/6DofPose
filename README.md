@@ -3,7 +3,7 @@
 --------------
 * 2018/12/10
 
-__Thank you__
+__4차산업의 이해 수업__
 
-![Screenshot](screenshot.png)
+![Optional Text](../master/repos/data_visualize/image.png)
 
