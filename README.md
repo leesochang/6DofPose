@@ -5,5 +5,3 @@
 
 __4차산업의 이해 수업__
 
-![Optional Text](../master/repos/data_visualize/image.png)
-
